@@ -9,8 +9,10 @@ i:data/maps/items.png
 b:data/maps/testroom.tmx
 i:data/maps/tileset.png
 d:data/sounds
+a:data/sounds/battletheme.ogg
 a:data/sounds/select.wav
 d:data/sprites
+i:data/sprites/battleback.png
 i:data/sprites/chatbox.png
 i:data/sprites/player.png
 i:data/sprites/shadow.png
