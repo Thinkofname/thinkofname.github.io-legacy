@@ -1,0 +1,2 @@
+# Module think.ld26.GwtDefinition
+# RPC service class, partial path of RPC policy file
