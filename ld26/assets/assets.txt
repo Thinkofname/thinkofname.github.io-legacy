@@ -5,8 +5,10 @@ b:data/font.hiero
 i:data/font.png
 i:data/libgdx.png
 d:data/maps
+i:data/maps/items.png
 b:data/maps/testroom.tmx
 i:data/maps/tileset.png
 d:data/sprites
+i:data/sprites/chatbox.png
 i:data/sprites/player.png
 i:data/sprites/shadow.png
