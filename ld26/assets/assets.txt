@@ -15,4 +15,6 @@ d:data/sprites
 i:data/sprites/battleback.png
 i:data/sprites/chatbox.png
 i:data/sprites/player.png
+b:data/sprites/rat.gal
+i:data/sprites/rat.png
 i:data/sprites/shadow.png
